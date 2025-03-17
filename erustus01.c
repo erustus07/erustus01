@@ -18,6 +18,6 @@ if (age >= 18) {
     } else {
     printf("Hello %s, you are not eligible to vote.\n", name);
     
-}
+} 
 
 }
